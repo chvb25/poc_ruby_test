@@ -1,1 +1,0 @@
-poc_ruby_test
